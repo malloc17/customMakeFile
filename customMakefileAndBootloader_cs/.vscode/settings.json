@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "stm32f4xx_hal_def.h": "c",
+        "send_message_to_host.h": "c",
+        "stdbool.h": "c",
+        "write_flash_memory.h": "c",
+        "stm32f4xx_hal_flash.h": "c",
+        "stm32f4xx_hal_flash_ex.h": "c",
+        "receive_message_from_host.h": "c",
+        "common_definition.h": "c",
+        "stm32f4xx_hal_uart.h": "c",
+        "calculate_crc.h": "c"
+    }
+}
